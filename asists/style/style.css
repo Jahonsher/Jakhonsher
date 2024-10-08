@@ -1,0 +1,52 @@
+
+body {
+    background-color: #FAFAFA;
+}
+
+.box {
+    width: 90%;
+    height: 80vh;
+    background-color: #FFFFFF;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 50px 0 rgba(0, 0, 0, 0.19);
+    margin: 0 auto;
+    border-radius: 5%;
+    margin-top: 3%;
+}
+
+.box_img {
+    /* width: 70%; */
+    height: 30vh;
+    margin-left: 14%;
+    border-radius: 50%;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.instagram {
+    width: 65%;
+    height: 7%;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 50px 0 rgba(0, 0, 0, 0.19);
+    margin: 0 auto;
+    border-radius: 15px;
+    margin-top: -10%;
+    background-color: #FFFFFF;
+    transform: rotate(-5deg);
+    display: flex;
+}
+
+.intro {
+    text-align: center;
+    font: bold;
+    font-size: 28px;
+}
+
+.about {
+    text-align: center;
+    font-size: 25px;
+}
+
+.link {
+    width: 90%;
+    margin: 0 auto;
+    gap: 30px;
+    display: flex;
+    margin-top: 20%;
+}
